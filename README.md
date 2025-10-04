@@ -1,0 +1,2 @@
+# IA
+Practicas de IA
