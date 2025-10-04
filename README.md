@@ -11,5 +11,5 @@ Implementación de neuronas artificiales basadas en el modelo de McCulloch-Pitts
 ** [Ver carpeta McCullockPitts](./McCullockPitts)**
 
 **Archivos:**
-- [NOT.ipynb](./McCullockPitts/McCullockPitts_AND.ipynb) - Implementación de la compuerta lógica NOT
+- [NOT.ipynb](./McCullockPitts/McCullockPitts_NOT.ipynb) - Implementación de la compuerta lógica NOT
 - [OR.ipynb](./McCullockPitts/McCullockPitts_OR.ipynb) - Implementación de la compuerta lógica OR
