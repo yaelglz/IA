@@ -8,7 +8,7 @@ Repositorio de prácticas y proyectos desarrollados para la clase de Inteligenci
 
 Implementación de neuronas artificiales basadas en el modelo de McCulloch-Pitts para simular compuertas lógicas básicas.
 
-** [Ver carpeta McCullockPitts](./McCullockPitts)**
+**[Ver carpeta McCullockPitts](./McCullockPitts)**
 
 **Archivos:**
 - [McCullockPitts_NOT.ipynb](./McCullockPitts/McCullockPitts_NOT.ipynb) - Implementación de la compuerta lógica NOT
