@@ -11,5 +11,15 @@ Implementación de neuronas artificiales basadas en el modelo de McCulloch-Pitts
 ** [Ver carpeta McCullockPitts](./McCullockPitts)**
 
 **Archivos:**
-- [NOT.ipynb](./McCullockPitts/McCullockPitts_NOT.ipynb) - Implementación de la compuerta lógica NOT
-- [OR.ipynb](./McCullockPitts/McCullockPitts_OR.ipynb) - Implementación de la compuerta lógica OR
+- [McCullockPitts_NOT.ipynb](./McCullockPitts/McCullockPitts_NOT.ipynb) - Implementación de la compuerta lógica NOT
+- [McCullockPitts_OR.ipynb](./McCullockPitts/McCullockPitts_OR.ipynb) - Implementación de la compuerta lógica OR
+
+### Práctica 2: Perceptrón
+
+Implementación del perceptrón para simular compuertas lógicas básicas (OR y NOT).
+
+**[Ver carpeta Perceptrón](./Perceptrón)**
+
+**Archivos:**
+- [Perceptron_OR.ipynb](./Perceptrón/Perceptron_OR.ipynb) - Implementación de la compuerta lógica OR con perceptrón
+- [Perceptron_NOT.ipynb](./Perceptrón/Perceptron_NOT.ipynb) - Implementación de la compuerta lógica NOT con perceptrón
